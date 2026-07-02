@@ -1,0 +1,52 @@
+========================================
+PRIME PATH ACADEMY
+PROJECT STATUS
+========================================
+
+PROJECT VERSION
+v1.0
+
+----------------------------------------
+MODULE 1
+----------------------------------------
+
+✔ Firebase Setup
+✔ Login
+✔ Signup
+✔ Dashboard
+
+----------------------------------------
+MODULE 2
+----------------------------------------
+
+✔ Lesson Topics
+✔ Topic List
+✔ Admin Add Topic
+✔ Admin Edit Topic
+✔ Admin Delete Topic
+
+----------------------------------------
+CURRENT MODULE
+----------------------------------------
+
+➡ Module 3
+Lesson Pages
+
+----------------------------------------
+NEXT FEATURES
+----------------------------------------
+
+□ Lesson Page
+□ Lesson Video
+□ Lesson PDF
+□ Previous / Next Lesson
+□ Lesson Complete
+□ Student Progress
+□ Locked Lessons
+□ Quiz System
+□ Certificate
+□ Admin Panel
+□ Student Panel
+□ Community Chat
+
+========================================
